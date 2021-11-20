@@ -1,0 +1,7 @@
+body{
+    background-image: url("other_background.jpg");
+    background-size: cover;
+}
+canvas{
+    border: 10px ridge gray;
+}
